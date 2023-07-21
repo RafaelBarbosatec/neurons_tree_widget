@@ -1,7 +1,7 @@
 name: neurons_tree_widget
-description: A new Flutter package project.
+description: Widget used to represent neuron network.
 version: 0.0.1
-homepage:
+homepage: https://github.com/RafaelBarbosatec/neurons_tree_widget
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
