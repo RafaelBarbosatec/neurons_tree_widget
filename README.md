@@ -13,7 +13,7 @@ and the Flutter guide for
 
 # NeuronsTreeWidget
 
-![](media/print_example.png)
+![](https://raw.githubusercontent.com/RafaelBarbosatec/neurons_tree_widget/main/media/print_example.png)
 
 Widget used to represent neuron network.
 
