@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "neurons_tree_widget",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "neurons_tree_widget (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "neurons_tree_widget (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "neurons_tree_widget_example",
+            "cwd": "neurons_tree_widget_example",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
